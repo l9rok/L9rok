@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/b93e6d7c-723d-4700-977c-6eb84ed72ab9.svg)](https://wakatime.com/@b93e6d7c-723d-4700-977c-6eb84ed72ab9)
 <!--
 **l9rok/L9rok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
