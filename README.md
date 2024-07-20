@@ -1,8 +1,5 @@
 <h1>Hi there!</h1>![Sigil_of](https://github.com/user-attachments/assets/3cb2a15c-a210-4e8b-8399-82f5b85ec7a8)
 
-
-
-<p></p>
 [![wakatime](https://wakatime.com/badge/user/b93e6d7c-723d-4700-977c-6eb84ed72ab9.svg)](https://wakatime.com/@b93e6d7c-723d-4700-977c-6eb84ed72ab9)
 
 ![nerding-speech-bubble](https://github.com/user-attachments/assets/ebd9ff08-b38d-4eea-8070-b133163cca79)
