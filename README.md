@@ -1,4 +1,5 @@
-![Sigil_of_the_Dead](https://github.com/user-attachments/assets/0093cb71-bc0b-44d8-ae43-f6f955524e2b)<h1>Hi there!</h1>![Sigil_of_the_Dead](https://github.com/user-attachments/assets/0093cb71-bc0b-44d8-ae43-f6f955524e2b)
+![Sigil_of](https://github.com/user-attachments/assets/049dfd26-e175-4447-9566-6276f38f9adb)<h1>Hi there!</h1>![Sigil_of](https://github.com/user-attachments/assets/049dfd26-e175-4447-9566-6276f38f9adb)
+
 
 
 [![wakatime](https://wakatime.com/badge/user/b93e6d7c-723d-4700-977c-6eb84ed72ab9.svg)](https://wakatime.com/@b93e6d7c-723d-4700-977c-6eb84ed72ab9)
