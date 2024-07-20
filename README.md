@@ -6,7 +6,7 @@
 
 <h2>Projects:</h2>
 
-![Sigil_of](https://github.com/user-attachments/assets/3cb2a15c-a210-4e8b-8399-82f5b85ec7a8) <a size="32">now here clear</a>
+![Sigil_of](https://github.com/user-attachments/assets/9cd9bb9e-7c75-45f4-ac84-925a6e709d57) Now here clear
 <!--
 `**l9rok/L9rok** is a ✨ _special_ ✨ repository because its ``README.md`` (this file) appears on your GitHub profile.`
 
