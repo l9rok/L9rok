@@ -7,6 +7,8 @@
 <h2>Projects:</h2>
 
 ![Sigil_of](https://github.com/user-attachments/assets/9cd9bb9e-7c75-45f4-ac84-925a6e709d57) Now here clear
+![Centaur](https://github.com/user-attachments/assets/ab1a9c33-a6cc-4ea1-9261-958bef26c5bf) js; css; ts
+
 <!--
 `**l9rok/L9rok** is a ✨ _special_ ✨ repository because its ``README.md`` (this file) appears on your GitHub profile.`
 
