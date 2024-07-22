@@ -7,7 +7,7 @@
 <h2>Projects:</h2>
 
 - ![Sigil_of](https://github.com/user-attachments/assets/9cd9bb9e-7c75-45f4-ac84-925a6e709d57) Now here clear
-- ![Centaur](https://github.com/user-attachments/assets/ab1a9c33-a6cc-4ea1-9261-958bef26c5bf) 
+- ![Centaur](https://github.com/user-attachments/assets/7e81c064-2f6d-4183-9469-7171b2cd2b7b)
 ![](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=ffffff&color=E44D26)
 ![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=ffffff&color=25A1E1)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=323330&color=f0db4f)
