@@ -12,6 +12,9 @@
 ![](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=ffffff&color=25A1E1)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=323330&color=f0db4f)
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)
+
+<h2></h2>
+
 ![nerding-speech-bubble](https://github.com/user-attachments/assets/ebd9ff08-b38d-4eea-8070-b133163cca79)
 <!--
 `**l9rok/L9rok** is a ✨ _special_ ✨ repository because its ``README.md`` (this file) appears on your GitHub profile.`
