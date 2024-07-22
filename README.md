@@ -4,7 +4,7 @@
 
  
 
-<h2>Projects:</h2>
+<h2></h2>
 
 - ![Sigil_of](https://github.com/user-attachments/assets/9cd9bb9e-7c75-45f4-ac84-925a6e709d57) Now here clear
 - ![Centaur](https://github.com/user-attachments/assets/7e81c064-2f6d-4183-9469-7171b2cd2b7b)
